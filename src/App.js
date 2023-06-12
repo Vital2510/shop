@@ -3,8 +3,7 @@ import Bg from "./components/bgimage/bg";
 function App() {
   return (
     <div className="App">
-      <p>Hello</p>
-      <Bg></Bg>
+      <Navbar/>
     </div>
     
   );
