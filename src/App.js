@@ -1,5 +1,5 @@
-import Navbar from "./components/navbar/navbar";
-import Products from './components/products/products';
+import navbar from "./components/navbar/navbar";
+import Bg from "./components/bgimage/bg";
 function App() {
   return (
     <div className="App">
@@ -8,6 +8,7 @@ function App() {
         <Products/>
       </div> */}
     </div>
+    
   );
 }
 
