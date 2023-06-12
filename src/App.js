@@ -1,11 +1,12 @@
-import Navbar from "./components/navbar/navbar";
-
+import navbar from "./components/navbar/navbar";
+import Bg from "./components/bgimage/bg";
 function App() {
   return (
     <div className="App">
       <p>Hello</p>
-      <Navbar/>
+      <Bg></Bg>
     </div>
+    
   );
 }
 
